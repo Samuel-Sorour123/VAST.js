@@ -16,10 +16,11 @@
     "dotenv": "^16.0.3",
     "express": "^4.17.1",
     "jquery": "^3.6.0",
+    "mqtt": "^5.10.1",
     "object-sizeof": "^1.6.1",
     "pm2": "^5.1.2",
     "socket.io": "^3.1.2",
-    "socket.io-client": "^4.4.1",
+    "socket.io-client": "^4.8.0",
     "worker-threads": "^1.0.0",
     "ws": "^8.13.0"
   },

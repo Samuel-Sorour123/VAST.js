@@ -1,0 +1,20 @@
+{
+  "hosts": {
+    "computer": "192.168.0.30",
+    "raspberrypi": {
+      "raspberrypi12": "192.168.0.12",
+      "raspberrypi14": "192.168.0.14",
+      "raspberrypi15": "192.168.0.15"
+    }
+  },
+  "simulation": {
+    "nodes": {
+      "newMatcher": 1,
+      "newClient": 2,
+      "publish": 5,
+      "subscribe": 5,
+      "moveClient": 5
+    },
+    "settings": {}
+  }
+}
